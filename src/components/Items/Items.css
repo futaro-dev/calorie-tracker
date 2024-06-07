@@ -1,0 +1,12 @@
+.item--card {
+  margin-bottom: 50px;
+}
+
+.item--buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.item--delete-button {
+  margin-left: 10px;
+}

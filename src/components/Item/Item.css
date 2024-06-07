@@ -1,0 +1,47 @@
+.item--content {
+  background-color: black;
+  margin: 10px;
+  padding: 10px;
+}
+
+.item--body {
+  display: flex;
+  background-color: blue;
+  padding: 10px;
+}
+
+.item--nutrition-field {
+  display: flex;
+}
+
+.item--nutrition-value {
+  margin-left: auto;
+}
+
+.item--information {
+  width: 200px;
+}
+
+.item--nutrition {
+  padding: 20px;
+}
+
+.item--consumption {
+  padding: 20px;
+}
+
+.item--portion {
+  padding: 5px;
+}
+
+.item--portion-field {
+  display: flex;
+}
+
+.item--portion-size-value {
+  margin-left: auto;
+}
+
+.item--portion-measure-value {
+  margin-left: auto;
+}
